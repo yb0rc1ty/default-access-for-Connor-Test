@@ -1,0 +1,14 @@
+{
+	"appname": "default access for Connor Test",
+	"scope": "FullAccess",
+	"clientid": "E029A4B3-9CD3-4F4B-A698-99E429144FDA",
+	"buyerid": "Buyer01",
+	"environment": "test",
+	"anonymous": true,
+	"base": {
+		"left": true,
+		"right": false,
+		"top": true,
+		"bottom": false
+	}
+}
